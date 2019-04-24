@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chartsy</string>
+    <string name="cat1">BS</string>
+    <string name="cat2">CS</string>
+    <string name="cat3">IT</string>
+    <string name="cat4">BIO</string>
+    <string name="cat5">ART</string>
+    <string name="cat6">MKT</string>
+</resources>
